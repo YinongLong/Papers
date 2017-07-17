@@ -4,7 +4,7 @@
 - Kyunghyun Cho, Bart Van Merrienboer, C¸ alar G¨ulc¸ehre, Dzmitry Bahdanau, Fethi Bougares, Holger Schwenk, and Yoshua Bengio. **Learning phrase representations using rnn encoder–decoder for statistical machine translation.** In Proceedings of the 2014 Conference on Empirical Methods in Natural Language Processing (EMNLP), pp. 1724–1734, Doha, Qatar, October 2014.
 - Ilya Sutskever, Oriol Vinyals, and Quoc V Le. **Sequence to sequence learning with neural networks.** In Z. Ghahramani, M. Welling, C. Cortes, N. D. Lawrence, and K. Q. Weinberger (eds.), Advances in Neural Information Processing Systems 27, pp. 3104–3112. Curran Associates, Inc., 2014.
 - YonghuiWu, Mike Schuster, Zhifeng Chen, Quoc V. Le, Mohammad Norouzi,Wolfgang Macherey, Maxim Krikun, Yuan Cao, Qin Gao, Klaus Macherey, Jeff Klingner, Apurva Shah, Melvin Johnson, Xiaobing Liu, Łukasz Kaiser, Stephan Gouws, Yoshikiyo Kato, Taku Kudo, Hideto Kazawa, Keith Stevens, George Kurian, Nishant Patil, Wei Wang, Cliff Young, Jason Smith, Jason Riesa, Alex Rudnick, Oriol Vinyals, Greg Corrado, Macduff Hughes, and Jeffrey Dean. **Google’s neural machine translation system: Bridging the gap between human and machine translation.** 2016.
-- Dzmitry Bahdanau, Kyunghyun Cho, and Yoshua Bengio. **Neural machine translation by jointly learning to align and translate.** arXiv preprint arXiv:1409.0473, 2014.
+- Dzmitry Bahdanau, Kyunghyun Cho, and Yoshua Bengio. **Neural machine translation by jointly learning to align and translate.** arXiv preprint arXiv:1409.0473, 2014.h [**Attention**]
 
 ## Neural Conversation
 - Oriol Vinyals and Quoc Le. **A neural conversational model.** arXiv preprint arXiv:1506.05869, 2015.
