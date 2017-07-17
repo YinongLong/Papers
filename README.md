@@ -16,6 +16,7 @@
 ## Embedding Related
 - Wang, S. and Manning, C. D. (2012). **Baselines and bigrams: Simple, good sentiment and topic classification.** In Proceedings of the 50th Annual Meeting of the Association for Computational Linguistics: Short Papers-Volume 2, pages 90–94. Association for Computational Linguistics.
 - Blei, D. M., Ng, A. Y., and Jordan, M. I. (2003). **Latent dirichlet allocation.** Journal of machine Learning research, 3(Jan):993–1022.
+- Huang, E. H., Socher, R., Manning, C. D., and Ng, A. Y. (2012). **Improving word representations via global context and multiple word prototypes.** In ACL, pages 873–882.
 - Socher, R., Perelygin, A., Wu, J. Y., Chuang, J., Manning, C. D., Ng, A. Y., and Potts, C. (2013). **Recursive deep models for semantic compositionality over a sentiment treebank.** In EMNLP, volume 1631, page 1642.
 - Mesnil, G., Mikolov, T., Ranzato, M., and Bengio, Y. (2014). **Ensemble of generative and discriminative techniques for sentiment analysis of movie reviews.** arXiv preprint arXiv:1412.5335.
 - Mikolov, T., Chen, K., Corrado, G., and Dean, J. (2013a). **Efficient estimation of word representations in vector space.** arXiv preprint arXiv:1301.3781.
