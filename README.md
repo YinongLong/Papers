@@ -5,6 +5,11 @@
 - Ilya Sutskever, Oriol Vinyals, and Quoc V Le. Sequence to sequence learning with neural networks. In Z. Ghahramani, M. Welling, C. Cortes, N. D. Lawrence, and K. Q. Weinberger (eds.), Advances in Neural Information Processing Systems 27, pp. 3104–3112. Curran Associates, Inc., 2014.
 - YonghuiWu, Mike Schuster, Zhifeng Chen, Quoc V. Le, Mohammad Norouzi,Wolfgang Macherey, Maxim Krikun, Yuan Cao, Qin Gao, Klaus Macherey, Jeff Klingner, Apurva Shah, Melvin Johnson, Xiaobing Liu, Łukasz Kaiser, Stephan Gouws, Yoshikiyo Kato, Taku Kudo, Hideto Kazawa, Keith Stevens, George Kurian, Nishant Patil, Wei Wang, Cliff Young, Jason Smith, Jason Riesa, Alex Rudnick, Oriol Vinyals, Greg Corrado, Macduff Hughes, and Jeffrey Dean. Google’s neural machine translation system: Bridging the gap between human and machine translation. 2016.
 
+## Neural Conversation
+- Oriol Vinyals and Quoc Le. A neural conversational model. arXiv preprint arXiv:1506.05869, 2015.
+- Lifeng Shang, Zhengdong Lu, and Hang Li. Neural responding machine for short-text conversation. arXiv preprint arXiv:1503.02364, 2015.
+- Alessandro Sordoni, Michel Galley, Michael Auli, Chris Brockett, Yangfeng Ji, Margaret Mitchell, Jian-Yun Nie, Jianfeng Gao, and Bill Dolan. A neural network approach to context-sensitive generation of conversational responses. arXiv preprint arXiv:1506.06714, 2015.
+
 ## 分词
 - Wenzhe Pei,Tao Ge, Baobao Chang.Max-Margin Tensor Neural Network for ChineseWord Segmentation.Proceedings of the 52nd Annual Meeting of the Association for Computational Linguistics, 293–303, Baltimore, Maryland, USA, June 23-25 2014.
 - Jianqiang Ma,Erhard Hinrichs. Accurate Linear-Time Chinese Word Segmentation via Embedding Matching. Proceedings of the 53rd Annual Meeting of the Association for Computational Linguistics and the 7th International Joint Conference on Natural Language Processing, 1733–1743, Beijing, China, July 26-31, 2015.
