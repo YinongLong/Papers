@@ -13,10 +13,15 @@
 - Jiwei Li, Michel Galley, Chris Brockett, Jianfeng Gao, and Bill Dolan. **A diversity-promoting objective function for neural conversation models.** arXiv preprint arXiv:1510.03055, 2015.
 - Jiwei Li, Will Monroe, Alan Ritter, Michel Galley, Jianfeng Gao, and Dan Jurafsky. **Deep reinforcement learning for dialogue generation.** CoRR, abs/1606.01541, 2016.
 
-## 分词
-- Wenzhe Pei,Tao Ge, Baobao Chang.Max-Margin Tensor Neural Network for ChineseWord Segmentation.Proceedings of the 52nd Annual Meeting of the Association for Computational Linguistics, 293–303, Baltimore, Maryland, USA, June 23-25 2014.
-- Jianqiang Ma,Erhard Hinrichs. Accurate Linear-Time Chinese Word Segmentation via Embedding Matching. Proceedings of the 53rd Annual Meeting of the Association for Computational Linguistics and the 7th International Joint Conference on Natural Language Processing, 1733–1743, Beijing, China, July 26-31, 2015.
-- Xinchi Chen, Xipeng Qiu, Chenxi Zhu, Xuanjing Huang.Gated Recursive Neural Network for Chinese Word Segmentation. Proceedings of the 53rd Annual Meeting of the Association for Computational Linguistics and the 7th International Joint Conference on Natural Language Processing, 1744–1753,Beijing, China, July 26-31, 2015.
+## Embedding Related
+- Wang, S. and Manning, C. D. (2012). **Baselines and bigrams: Simple, good sentiment and topic classification.** In Proceedings of the 50th Annual Meeting of the Association for Computational Linguistics: Short Papers-Volume 2, pages 90–94. Association for Computational Linguistics.
+- Blei, D. M., Ng, A. Y., and Jordan, M. I. (2003). **Latent dirichlet allocation.** Journal of machine Learning research, 3(Jan):993–1022.
+- Mikolov, T., Chen, K., Corrado, G., and Dean, J. (2013a). **Efficient estimation of word representations in vector space.** arXiv preprint arXiv:1301.3781.
+- Mikolov, T., Yih, W.-t., and Zweig, G. (2013b). **Linguistic regularities in continuous space word representations.** In HLT-NAACL, volume 13, pages 746–751.
+- Mikolov, T. and Dean, J. (2013). **Distributed representations of words and phrases and their compositionality.** Advances in neural information processing systems.
+- Le, Q. V. and Mikolov, T. (2014). **Distributed representations of sentences and documents.** In ICML, volume 14, pages 1188–1196.
+- Dai, A. M., Olah, C., and Le, Q. V. (2015). **Document embedding with paragraph vectors.** arXiv preprint arXiv:1507.07998.
+- Chen M. **Efficient Vector Representation for Documents through Corruption[J].** arXiv preprint arXiv:1707.02377, 2017.
 
 ## Memory-based Models
 - Weston J, Chopra S, Bordes A. Memory networks[J]. arXiv preprint arXiv:1410.3916, 2014.
@@ -25,6 +30,11 @@
 - Graves, Alex, Wayne, Greg, and Danihelka, Ivo. Neural turing machines. arXiv preprint arXiv:1410.5401, 2014b.
 - Joulin, Armand and Mikolov, Tomas. Inferring algorithmic patterns with stack-augmented recurrent nets. arXiv preprint arXiv:1503.01007, 2015.
 - Grefenstette, Edward, Hermann, Karl Moritz, Suleyman, Mustafa, and Blunsom, Phil. Learning to transduce with unbounded memory. arXiv preprint arXiv:1506.02516, 2015.
+
+## 分词
+- Wenzhe Pei,Tao Ge, Baobao Chang.Max-Margin Tensor Neural Network for ChineseWord Segmentation.Proceedings of the 52nd Annual Meeting of the Association for Computational Linguistics, 293–303, Baltimore, Maryland, USA, June 23-25 2014.
+- Jianqiang Ma,Erhard Hinrichs. Accurate Linear-Time Chinese Word Segmentation via Embedding Matching. Proceedings of the 53rd Annual Meeting of the Association for Computational Linguistics and the 7th International Joint Conference on Natural Language Processing, 1733–1743, Beijing, China, July 26-31, 2015.
+- Xinchi Chen, Xipeng Qiu, Chenxi Zhu, Xuanjing Huang.Gated Recursive Neural Network for Chinese Word Segmentation. Proceedings of the 53rd Annual Meeting of the Association for Computational Linguistics and the 7th International Joint Conference on Natural Language Processing, 1744–1753,Beijing, China, July 26-31, 2015.
 
 ## Visual Attention
 - Mnih, Volodymyr, Heess, Nicolas, Graves, Alex, et al. Recurrent models of visual attention. In Advances in Neural Information Processing Systems, pp. 2204–2212, 2014.
