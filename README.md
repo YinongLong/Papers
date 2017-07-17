@@ -11,6 +11,7 @@
 - Lifeng Shang, Zhengdong Lu, and Hang Li. **Neural responding machine for short-text conversation**. arXiv preprint arXiv:1503.02364, 2015.
 - Alessandro Sordoni, Michel Galley, Michael Auli, Chris Brockett, Yangfeng Ji, Margaret Mitchell, Jian-Yun Nie, Jianfeng Gao, and Bill Dolan. **A neural network approach to context-sensitive generation of conversational responses**. arXiv preprint arXiv:1506.06714, 2015.
 - Jiwei Li, Michel Galley, Chris Brockett, Jianfeng Gao, and Bill Dolan. **A diversity-promoting objective function for neural conversation models.** arXiv preprint arXiv:1510.03055, 2015.
+- Jiwei Li, Will Monroe, Alan Ritter, Michel Galley, Jianfeng Gao, and Dan Jurafsky. **Deep reinforcement learning for dialogue generation.** CoRR, abs/1606.01541, 2016.
 
 ## 分词
 - Wenzhe Pei,Tao Ge, Baobao Chang.Max-Margin Tensor Neural Network for ChineseWord Segmentation.Proceedings of the 52nd Annual Meeting of the Association for Computational Linguistics, 293–303, Baltimore, Maryland, USA, June 23-25 2014.
