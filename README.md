@@ -43,8 +43,11 @@
 - Mikolov, T., Karafi´at, M., Burget, L., Cernocky, J., and Khudanpur, S. (2010). **Recurrent neural network based language model.** In Interspeech, volume 2, page 3.
 - Kim, Y., Jernite, Y., Sontag, D., and Rush, A. M. (2015). **Character-aware neural language models.** arXiv preprint arXiv:1508.06615.
 
-## Autoencoders
+## Unsupervised Learning
+- G. Hinton and R. Salakhutdinov. **Reducing the dimensionality of data with neural networks.** Science, 313(5786):504 { 507, 2006.
 - Vincent, P., Larochelle, H., Bengio, Y., and Manzagol, P.-A. (2008). **Extracting and composing robust features with denoising autoencoders.** In Proceedings of the 25th international conference on Machine learning, pages 1096–1103. ACM.
+- R. Salakhutdinov and G. Hinton. **Deep Boltzmann machines.** In Proceedings of the International Conference on Articial Intelligence and Statistics, volume 5, pages 448{455, 2009.
+- P. Vincent, H. Larochelle, I. Lajoie, Y. Bengio, and P.-A. Manzagol. **Stacked denoising autoencoders: Learning useful representations in a deep network with a local denoising criterion.** In Proceedings of the 27th International Conference on Machine Learning, pages 3371{3408. ACM, 2010.
 - Chen, M., Xu, Z., Weinberger, K., and Sha, F. (2012). **Marginalized denoising autoencoders for domain adaptation.** arXiv preprint arXiv:1206.4683.
 
 ## 分词
