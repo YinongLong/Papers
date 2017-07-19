@@ -50,6 +50,9 @@
 - P. Vincent, H. Larochelle, I. Lajoie, Y. Bengio, and P.-A. Manzagol. **Stacked denoising autoencoders: Learning useful representations in a deep network with a local denoising criterion.** In Proceedings of the 27th International Conference on Machine Learning, pages 3371{3408. ACM, 2010.
 - Chen, M., Xu, Z., Weinberger, K., and Sha, F. (2012). **Marginalized denoising autoencoders for domain adaptation.** arXiv preprint arXiv:1206.4683.
 
+## Misc
+- Srivastava N, Hinton G E, Krizhevsky A, et al. **Dropout: a simple way to prevent neural networks from overfitting[J].** Journal of Machine Learning Research, 2014, 15(1): 1929-1958.
+
 ## 分词
 - Wenzhe Pei,Tao Ge, Baobao Chang.Max-Margin Tensor Neural Network for ChineseWord Segmentation.Proceedings of the 52nd Annual Meeting of the Association for Computational Linguistics, 293–303, Baltimore, Maryland, USA, June 23-25 2014.
 - Jianqiang Ma,Erhard Hinrichs. Accurate Linear-Time Chinese Word Segmentation via Embedding Matching. Proceedings of the 53rd Annual Meeting of the Association for Computational Linguistics and the 7th International Joint Conference on Natural Language Processing, 1733–1743, Beijing, China, July 26-31, 2015.
