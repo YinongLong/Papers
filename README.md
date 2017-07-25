@@ -45,9 +45,15 @@
 - Mikolov, T., Karafi´at, M., Burget, L., Cernocky, J., and Khudanpur, S. (2010). **Recurrent neural network based language model.** In Interspeech, volume 2, page 3.
 - Kim, Y., Jernite, Y., Sontag, D., and Rush, A. M. (2015). **Character-aware neural language models.** arXiv preprint arXiv:1508.06615.
 
-## Autoencoders
+## Unsupervised Learning
+- G. Hinton and R. Salakhutdinov. **Reducing the dimensionality of data with neural networks.** Science, 313(5786):504 { 507, 2006.
 - Vincent, P., Larochelle, H., Bengio, Y., and Manzagol, P.-A. (2008). **Extracting and composing robust features with denoising autoencoders.** In Proceedings of the 25th international conference on Machine learning, pages 1096–1103. ACM.
+- R. Salakhutdinov and G. Hinton. **Deep Boltzmann machines.** In Proceedings of the International Conference on Articial Intelligence and Statistics, volume 5, pages 448{455, 2009.
+- P. Vincent, H. Larochelle, I. Lajoie, Y. Bengio, and P.-A. Manzagol. **Stacked denoising autoencoders: Learning useful representations in a deep network with a local denoising criterion.** In Proceedings of the 27th International Conference on Machine Learning, pages 3371{3408. ACM, 2010.
 - Chen, M., Xu, Z., Weinberger, K., and Sha, F. (2012). **Marginalized denoising autoencoders for domain adaptation.** arXiv preprint arXiv:1206.4683.
+
+## Misc
+- Srivastava N, Hinton G E, Krizhevsky A, et al. **Dropout: a simple way to prevent neural networks from overfitting[J].** Journal of Machine Learning Research, 2014, 15(1): 1929-1958.
 
 ## 分词
 - Wenzhe Pei,Tao Ge, Baobao Chang.Max-Margin Tensor Neural Network for ChineseWord Segmentation.Proceedings of the 52nd Annual Meeting of the Association for Computational Linguistics, 293–303, Baltimore, Maryland, USA, June 23-25 2014.
