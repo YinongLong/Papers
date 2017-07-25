@@ -14,6 +14,8 @@
 - Jiwei Li, Will Monroe, Alan Ritter, Michel Galley, Jianfeng Gao, and Dan Jurafsky. **Deep reinforcement learning for dialogue generation.** CoRR, abs/1606.01541, 2016.
 
 ## Embedding Related
+- Bengio Y, Ducharme R, Vincent P, et al. **A neural probabilistic language model[J]**. Journal of machine learning research, 2003, 3(Feb): 1137-1155.
+- Collobert R, Weston J, Bottou L, et al. **Natural language processing (almost) from scratch[J]**. Journal of Machine Learning Research, 2011, 12(Aug): 2493-2537.
 - Wang, S. and Manning, C. D. (2012). **Baselines and bigrams: Simple, good sentiment and topic classification.** In Proceedings of the 50th Annual Meeting of the Association for Computational Linguistics: Short Papers-Volume 2, pages 90–94. Association for Computational Linguistics.
 - Blei, D. M., Ng, A. Y., and Jordan, M. I. (2003). **Latent dirichlet allocation.** Journal of machine Learning research, 3(Jan):993–1022.
 - Huang, E. H., Socher, R., Manning, C. D., and Ng, A. Y. (2012). **Improving word representations via global context and multiple word prototypes.** In ACL, pages 873–882.
@@ -32,12 +34,12 @@
 - Chen M. **Efficient Vector Representation for Documents through Corruption[J].** arXiv preprint arXiv:1707.02377, 2017.
 
 ## Memory-based Models
-- Weston J, Chopra S, Bordes A. Memory networks[J]. arXiv preprint arXiv:1410.3916, 2014.
-- Sukhbaatar S, Weston J, Fergus R. End-to-end memory networks[C]//Advances in neural information processing systems. 2015: 2440-2448.
-- Kumar A, Irsoy O, Ondruska P, et al. Ask me anything: Dynamic memory networks for natural language processing[C]//International Conference on Machine Learning. 2016: 1378-1387.
-- Graves, Alex, Wayne, Greg, and Danihelka, Ivo. Neural turing machines. arXiv preprint arXiv:1410.5401, 2014b.
-- Joulin, Armand and Mikolov, Tomas. Inferring algorithmic patterns with stack-augmented recurrent nets. arXiv preprint arXiv:1503.01007, 2015.
-- Grefenstette, Edward, Hermann, Karl Moritz, Suleyman, Mustafa, and Blunsom, Phil. Learning to transduce with unbounded memory. arXiv preprint arXiv:1506.02516, 2015.
+- Weston J, Chopra S, Bordes A. **Memory networks[J]**. arXiv preprint arXiv:1410.3916, 2014.
+- Sukhbaatar S, Weston J, Fergus R. **End-to-end memory networks[C]**//Advances in neural information processing systems. 2015: 2440-2448.
+- Kumar A, Irsoy O, Ondruska P, et al. **Ask me anything: Dynamic memory networks for natural language processing[C]**//International Conference on Machine Learning. 2016: 1378-1387.
+- Graves, Alex, Wayne, Greg, and Danihelka, Ivo. **Neural turing machines.** arXiv preprint arXiv:1410.5401, 2014b.
+- Joulin, Armand and Mikolov, Tomas. **Inferring algorithmic patterns with stack-augmented recurrent nets.** arXiv preprint arXiv:1503.01007, 2015.
+- Grefenstette, Edward, Hermann, Karl Moritz, Suleyman, Mustafa, and Blunsom, Phil. **Learning to transduce with unbounded memory.** arXiv preprint arXiv:1506.02516, 2015.
 
 ## Language Model
 - Mikolov, T., Karafi´at, M., Burget, L., Cernocky, J., and Khudanpur, S. (2010). **Recurrent neural network based language model.** In Interspeech, volume 2, page 3.
